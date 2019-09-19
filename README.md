@@ -12,7 +12,7 @@ When we press the "+" button on the bottom right, we will be redirected to anoth
   <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134810.png" width="30%" title="add trip">
 </p>
 
-When you click the "Save" button, the application will return us to the main menu where we will see that the trip has been added successfully
+When you click the "Save" button, the application will return us to the main menu where we will see that the trip has been added successfully.
 <p align="center">
   <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134817.png" width="30%" title="trip added">
 </p>
