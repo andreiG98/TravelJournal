@@ -3,10 +3,15 @@
     <string name="tripName">Trip Name</string>
     <string name="destination">Destination</string>
     <string name="tripType">Trip Type</string>
-    <string name="price">Price</string>
+    <string name="price">Price (euro)</string>
     <string name="cityBreak">City Break</string>
     <string name="seeSide">See Side</string>
     <string name="mountains">Mountains</string>
     <string name="rating">Rating</string>
     <string name="save">Save</string>
+    <string name="title_activity_manage_trip">Manage Trip</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+    <string name="title_activity_travel_journal">Travel Journal</string>
 </resources>
