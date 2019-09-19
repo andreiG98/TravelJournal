@@ -4,5 +4,17 @@
 
   In the main screen appears the list with the name of the destination, a picture that reflects that destination, as well as the period in which it was visited. When we click on a trip, a submenu will be included, including the type, price and rating added by us.
 <p align="center">
-  <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134727.png" width="50%" title="main screen">
+  <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134727.png" width="30%" title="main screen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134810.png" width="30%" title="add trip">
+</p>
+
+<p align="center">
+  <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134817.png" width="30%" title="trip added">
+</p>
+
+<p align="center">
+  <img src="https://github.com/andreiG98/TravelJournal/blob/master/travel_journal_images/Screenshot_20190919-134824.png" width="30%" title="delete trip">
 </p>
